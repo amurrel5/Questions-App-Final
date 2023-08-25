@@ -72,7 +72,7 @@ struct ContentView: View {
                 Spacer()
                 
                 NavigationLink(destination: Second_View()) {
-                    Text ("Next Question ➡️")
+                    Text ("Next Question ➡️ ")
                    
                     
                     
